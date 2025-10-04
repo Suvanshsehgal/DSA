@@ -12,16 +12,9 @@ Return the minimum integer `k` such that she can eat all the bananas within `h` 
 
 ---
 
-## Example Image
-
 <p align="center">
   <img src="images.jpeg" alt="Koko Eating Bananas" width="400"/>
 </p>
-
-*(Save your image inside an `assets` folder in your repo and rename it to `koko.png` or update the path accordingly.)*
-
----
-
 ## Examples
 
 **Example 1**
